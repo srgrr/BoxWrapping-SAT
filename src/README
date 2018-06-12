@@ -1,0 +1,12 @@
+You already have the latest binaries that correspond to the source code in the folder.
+
+If they do not work:
+  Type make main to compile the main program.
+  Type g++ -o checker checker.cc -O2 -std=c++17
+
+Type python run_all.py to run the solver on all the instances.
+
+You need lingeling installed and visible to be able to run my implementation.
+
+You need the instances folder to be on the src folder to make this work.
+
